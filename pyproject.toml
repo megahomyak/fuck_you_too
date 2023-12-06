@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fuck-you-too"
+version = "0.1.0"
+description = ""
+authors = ["megahomyak <g.megahomyak@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fuckoff = "^0.2.0"
+pyqt6-sip = "13.5.2"
+pyqt6-qt6 = "6.5.2"
+pyqt6 = "6.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
